@@ -1,7 +1,7 @@
 # shell-simplificado
 Esse programa implementa um shell simplificado para executar alguns comandos
 Os comandos realizados são:
-`$ prog`
-`$ prog parametros`
-`$ prog & `
-`$ prog & parametros`
+`$ prog\n`
+`$ prog parametros\n`
+`$ prog &\n `
+`$ prog & parametros\n`
