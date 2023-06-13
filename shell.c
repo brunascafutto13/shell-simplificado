@@ -1,4 +1,4 @@
-*
+*/
     Alunas:Bruna Scafutto (800365) e Vitoria Borreli (800203)
     Diciplina: Sistemas Operacionais
     Descrição: Esse programa implementa um shell simplificado
